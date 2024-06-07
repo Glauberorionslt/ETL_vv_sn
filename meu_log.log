@@ -1,0 +1,391 @@
+2024-04-24 09:55:17,529 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-04-24 09:55:27,083 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-04-24 09:55:42,991 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-04-24 09:55:51,659 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-04-24 09:55:58,994 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-04-24 09:56:10,060 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-04-24 09:56:19,282 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-04-24 09:56:28,228 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-04-24 09:56:39,430 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-04-24 09:56:51,759 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-04-24 09:57:03,161 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-04-24 09:57:13,880 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-04-24 09:57:23,789 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-04-24 09:57:37,837 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-04-24 09:58:49,264 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-04-24 09:59:40,541 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-04-24 10:01:01,037 - INFO - DataFrame processado com sucesso.
+2024-04-24 10:01:01,039 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-04-24 10:02:17,057 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-04-24 12:40:19,458 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-04-24 12:40:29,444 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-04-24 12:40:37,924 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-04-24 12:40:45,571 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-04-24 12:40:54,438 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-04-24 12:41:02,641 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-04-24 12:41:12,690 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-04-24 12:41:26,580 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-04-24 12:41:37,688 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-04-24 12:41:50,900 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-04-24 12:42:03,185 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-04-24 12:42:13,322 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-04-24 12:42:21,976 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-04-24 12:42:29,956 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-04-24 12:43:56,429 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-04-24 12:44:58,604 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-04-24 12:46:38,699 - INFO - DataFrame processado com sucesso.
+2024-04-24 12:46:38,700 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-04-24 12:48:13,618 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-04-25 09:39:32,782 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-04-25 09:39:41,941 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-04-25 09:39:49,172 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-04-25 09:39:57,548 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-04-25 09:40:04,357 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-04-25 09:40:12,410 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-04-25 09:40:22,395 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-04-25 09:40:36,330 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-04-25 09:40:48,389 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-04-25 09:40:59,827 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-04-25 09:41:09,605 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-04-25 09:41:18,867 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-04-25 09:41:25,119 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-04-25 09:41:32,608 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-04-25 09:42:54,281 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-04-25 09:43:51,280 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-04-25 09:45:21,436 - INFO - DataFrame processado com sucesso.
+2024-04-25 09:45:21,438 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-04-25 09:46:47,459 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-04-30 09:38:22,794 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-04-30 09:38:33,275 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-04-30 09:38:42,364 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-04-30 09:38:50,989 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-04-30 09:39:00,300 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-04-30 09:39:11,011 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-04-30 09:39:20,300 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-04-30 09:39:31,501 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-04-30 09:39:45,872 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-04-30 09:39:57,211 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-04-30 09:40:10,554 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-04-30 09:40:21,732 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-04-30 09:40:33,497 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-04-30 09:40:42,509 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-04-30 09:40:52,380 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-04-30 09:42:44,566 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-04-30 09:43:53,747 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-04-30 09:45:44,372 - INFO - DataFrame processado com sucesso.
+2024-04-30 09:45:44,377 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-04-30 09:47:31,548 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-04-30 15:52:16,301 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-04-30 15:52:31,727 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-04-30 15:52:45,646 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-04-30 15:53:00,550 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-04-30 15:53:14,481 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-04-30 15:53:25,742 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-04-30 15:53:38,654 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-04-30 15:54:00,763 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-04-30 15:54:18,513 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-04-30 15:54:34,889 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-04-30 15:54:55,648 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-04-30 15:55:14,805 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-04-30 15:55:34,533 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-04-30 15:55:45,641 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-04-30 15:55:58,678 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-04-30 15:56:24,082 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-04-30 15:58:44,048 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-04-30 15:59:14,331 - INFO - DataFrame processado com sucesso.
+2024-04-30 15:59:14,336 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-04-30 16:00:46,972 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-05-02 09:20:48,892 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-05-02 09:21:05,960 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-05-02 09:21:17,224 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-05-02 09:21:27,700 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-05-02 09:21:38,598 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-05-02 09:21:47,867 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-05-02 09:21:57,722 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-05-02 09:22:11,423 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-05-02 09:22:23,541 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-05-02 09:22:37,192 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-05-02 09:22:49,123 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-05-02 09:23:02,770 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-05-02 09:23:14,447 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-05-02 09:23:21,084 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-05-02 09:23:29,487 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-05-02 09:24:00,168 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-05-02 09:24:51,748 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-05-02 09:25:19,949 - INFO - DataFrame processado com sucesso.
+2024-05-02 09:25:19,951 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-05-02 09:26:03,316 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-05-03 09:20:52,850 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-05-03 09:21:11,154 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-05-03 09:21:23,089 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-05-03 09:21:39,541 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-05-03 09:21:50,335 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-05-03 09:22:02,325 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-05-03 09:22:13,386 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-05-03 09:22:29,950 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-05-03 09:22:43,013 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-05-03 09:22:59,410 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-05-03 09:23:11,794 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-05-03 09:23:23,782 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-05-03 09:23:39,042 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-05-03 09:23:46,422 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-05-03 09:23:46,747 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-05-03 09:23:56,697 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-05-03 09:24:34,003 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-05-03 09:37:53,624 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-05-03 09:38:39,555 - INFO - DataFrame processado com sucesso.
+2024-05-03 09:38:39,556 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-05-03 09:39:24,293 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-05-06 09:20:53,989 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-05-06 09:21:11,171 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-05-06 09:21:25,371 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-05-06 09:21:40,467 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-05-06 09:21:54,450 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-05-06 09:22:03,773 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-05-06 09:22:13,761 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-05-06 09:22:28,656 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-05-06 09:22:42,221 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-05-06 09:22:54,234 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-05-06 09:23:09,165 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-05-06 09:23:23,833 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-05-06 09:23:38,807 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-05-06 09:23:45,741 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-05-06 09:23:46,359 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-05-06 09:23:57,262 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-05-06 09:24:25,824 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-05-06 09:25:06,250 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-05-06 09:25:34,160 - INFO - DataFrame processado com sucesso.
+2024-05-06 09:25:34,160 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx' removido.
+2024-05-06 09:26:13,010 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow.xlsx'
+2024-05-14 09:21:06,912 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-05-14 09:21:41,215 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-05-14 09:22:03,772 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-05-14 09:22:24,627 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-05-14 09:22:44,892 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-05-14 09:23:04,383 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-05-14 09:23:06,979 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-05-14 09:23:20,424 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-05-14 09:23:41,439 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-05-14 09:23:59,496 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-05-14 09:24:21,311 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-05-14 09:24:39,491 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-05-14 09:25:51,710 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-05-14 09:26:00,106 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-05-14 09:26:04,148 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-05-14 09:26:14,642 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-05-14 09:31:06,564 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-05-14 12:22:23,518 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-05-14 12:22:34,659 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-05-14 12:22:46,146 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-05-14 12:22:55,438 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-05-14 12:23:03,856 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-05-14 12:23:10,851 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-05-14 12:23:18,483 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-05-14 12:23:28,929 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-05-14 12:23:41,857 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-05-14 12:23:54,776 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-05-14 12:24:07,046 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-05-14 12:24:17,112 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-05-14 12:24:27,856 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-05-14 12:24:35,634 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-05-14 12:24:37,668 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-05-14 12:24:46,373 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-05-14 12:26:15,492 - INFO - Arquivo existente 'C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-05-14 12:27:22,262 - INFO - Arquivo combinado salvo em: C:\Users\2160011883\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-05-14 12:29:07,667 - INFO - DataFrame processado com sucesso.
+2024-05-14 12:30:45,850 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883\Via Varejo S.A\DB_MANUTENCAO - Bases P-Pbi\f_Servicenow.xlsx'
+2024-06-03 15:30:39,902 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-03 15:30:43,490 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-03 15:30:47,585 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-03 15:45:34,407 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-03 15:45:37,948 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-03 15:45:40,920 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-03 15:45:43,937 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-03 15:45:48,940 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-03 15:45:52,326 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-03 15:45:55,272 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-03 15:45:59,984 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-03 15:46:04,456 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-03 15:46:08,595 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-03 15:46:13,139 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-03 15:46:16,915 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-03 15:46:23,230 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-03 15:46:26,018 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-03 15:46:27,618 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-03 15:46:31,802 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-03 15:46:54,143 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-03 15:47:39,675 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-03 15:48:08,077 - INFO - DataFrame processado com sucesso.
+2024-06-03 15:48:08,080 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-03 15:48:45,950 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-03 16:05:32,349 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-03 16:05:35,765 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-03 16:05:38,674 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-03 16:05:41,867 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-03 16:05:44,829 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-03 16:05:49,073 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-03 16:05:53,064 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-03 16:05:57,739 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-03 16:06:01,804 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-03 16:06:06,099 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-03 16:06:11,071 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-03 16:06:15,328 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-03 16:06:20,174 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-03 16:06:28,160 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-03 16:06:29,855 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-03 16:06:33,260 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-03 16:06:56,977 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-03 16:07:38,809 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-03 16:08:06,930 - INFO - DataFrame processado com sucesso.
+2024-06-03 16:08:48,353 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-04 09:20:54,659 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-04 09:21:07,877 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-04 09:21:17,906 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-04 09:21:28,471 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-04 09:21:37,820 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-04 09:21:48,823 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-04 09:22:01,229 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-04 09:22:16,879 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-04 09:22:36,219 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-04 09:22:53,034 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-04 09:23:11,021 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-04 09:23:44,564 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-04 09:23:59,156 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-04 09:24:07,365 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-04 09:24:16,355 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-04 09:24:29,369 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-04 09:28:35,124 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-04 09:45:12,513 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-04 09:45:49,359 - INFO - DataFrame processado com sucesso.
+2024-06-04 09:45:49,361 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-04 09:47:54,483 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-05 09:20:47,230 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-05 09:20:54,811 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-05 09:21:02,469 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-05 09:21:09,593 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-05 09:21:15,292 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-05 09:21:20,373 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-05 09:21:26,314 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-05 09:21:37,720 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-05 09:21:46,945 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-05 09:21:55,807 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-05 09:22:08,642 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-05 09:22:19,475 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-05 09:22:27,403 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-05 09:22:35,083 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-05 09:22:37,639 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-05 09:22:43,441 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-05 09:23:07,511 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-05 09:23:45,182 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-05 09:24:09,878 - INFO - DataFrame processado com sucesso.
+2024-06-05 09:24:09,880 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-05 09:24:44,356 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-06 09:20:44,563 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-06 09:20:55,731 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-06 09:21:02,642 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-06 09:21:09,048 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-06 09:21:15,232 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-06 09:21:21,854 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-06 09:21:30,212 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-06 09:21:38,750 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-06 09:21:49,076 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-06 09:22:01,079 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-06 09:22:11,057 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-06 09:22:19,409 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-06 09:22:30,816 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-06 09:22:36,099 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-06 09:22:39,210 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-06 09:22:45,312 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-06 09:23:07,950 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-06 09:23:45,310 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-06 09:24:09,750 - INFO - DataFrame processado com sucesso.
+2024-06-06 09:24:09,751 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-06 09:24:45,230 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-06 15:38:38,319 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-06 15:38:42,073 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-06 15:38:44,266 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-06 15:38:46,941 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-06 15:38:49,348 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-06 15:38:55,529 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-06 15:38:58,206 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-06 15:39:01,504 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-06 15:39:05,721 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-06 15:39:09,044 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-06 15:39:12,821 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-06 15:39:15,819 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-06 15:39:19,305 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-06 15:39:24,088 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-06 15:39:25,376 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-06 15:39:29,519 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-06 15:39:30,590 - INFO - Arquivo 'sede.xlsx' lido com sucesso.
+2024-06-06 15:39:55,782 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-06 15:41:54,319 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-06 15:42:24,109 - INFO - DataFrame processado com sucesso.
+2024-06-06 15:42:24,112 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-06 15:43:04,193 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-06 16:02:07,838 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-06 16:02:17,556 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-06 16:02:21,097 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-06 16:02:23,775 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-06 16:02:25,732 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-06 16:02:27,628 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-06 16:02:30,268 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-06 16:02:33,350 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-06 16:02:37,616 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-06 16:02:44,265 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-06 16:02:49,371 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-06 16:02:53,876 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-06 16:02:57,285 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-06 16:02:58,987 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-06 16:03:00,086 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-06 16:03:05,499 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-06 16:03:07,539 - INFO - Arquivo 'sede.xlsx' lido com sucesso.
+2024-06-06 16:03:56,974 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-06 16:07:04,303 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-06 16:07:34,328 - INFO - DataFrame processado com sucesso.
+2024-06-06 16:07:34,329 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-06 16:08:15,015 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-06 16:28:05,828 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-06 16:28:14,933 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-06 16:28:21,446 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-06 16:28:30,594 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-06 16:28:37,183 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-06 16:28:42,429 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-06 16:28:47,820 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-06 16:28:58,666 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-06 16:29:08,825 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-06 16:29:18,789 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-06 16:29:32,450 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-06 16:29:41,303 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-06 16:29:49,948 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-06 16:29:57,042 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-06 16:30:01,509 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-06 16:30:07,359 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-06 16:30:10,459 - INFO - Arquivo 'sede.xlsx' lido com sucesso.
+2024-06-06 16:30:36,024 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-06 16:32:08,837 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-06 16:32:37,378 - INFO - DataFrame processado com sucesso.
+2024-06-06 16:32:37,379 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-06 16:33:18,688 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
+2024-06-07 09:20:46,730 - INFO - Arquivo '2023 (2).xlsx' lido com sucesso.
+2024-06-07 09:20:55,975 - INFO - Arquivo '2023 (3).xlsx' lido com sucesso.
+2024-06-07 09:21:02,334 - INFO - Arquivo '2023 (4).xlsx' lido com sucesso.
+2024-06-07 09:21:09,029 - INFO - Arquivo '2023 (5).xlsx' lido com sucesso.
+2024-06-07 09:21:18,814 - INFO - Arquivo '2023 (6).xlsx' lido com sucesso.
+2024-06-07 09:21:24,671 - INFO - Arquivo '2023 (7).xlsx' lido com sucesso.
+2024-06-07 09:21:30,742 - INFO - Arquivo '2023(4).xlsx' lido com sucesso.
+2024-06-07 09:21:39,009 - INFO - Arquivo '221112.xlsx' lido com sucesso.
+2024-06-07 09:21:51,708 - INFO - Arquivo '2212.xlsx' lido com sucesso.
+2024-06-07 09:22:01,297 - INFO - Arquivo '2234.xlsx' lido com sucesso.
+2024-06-07 09:22:11,229 - INFO - Arquivo '2256.xlsx' lido com sucesso.
+2024-06-07 09:22:21,657 - INFO - Arquivo '2278.xlsx' lido com sucesso.
+2024-06-07 09:22:30,595 - INFO - Arquivo '22910.xlsx' lido com sucesso.
+2024-06-07 09:22:35,618 - INFO - Arquivo 'sc_task (1).xlsx' lido com sucesso.
+2024-06-07 09:22:38,474 - INFO - Arquivo 'sc_task (2).xlsx' lido com sucesso.
+2024-06-07 09:22:51,406 - INFO - Arquivo 'sc_task.xlsx' lido com sucesso.
+2024-06-07 09:22:54,065 - INFO - Arquivo 'sede.xlsx' lido com sucesso.
+2024-06-07 09:23:18,976 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx' removido.
+2024-06-07 09:23:57,595 - INFO - Arquivo combinado salvo em: C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\GLAUBER S-ONE DRIVE\PROJETOS\PYTHON\Analise de dados\ETL\Pbi\indicadores_manutencao\f_Servicenow_combinado.xlsx
+2024-06-07 09:24:22,959 - INFO - DataFrame processado com sucesso.
+2024-06-07 09:24:22,960 - INFO - Arquivo existente 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx' removido.
+2024-06-07 09:24:57,596 - INFO - DataFrame processado salvo com sucesso em 'C:\Users\2160011883.VIA\OneDrive - Via Varejo S.A\Bases - DB_MANUTENCAO\f_Servicenow.xlsx'
